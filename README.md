@@ -9,6 +9,8 @@ This enables stakeholders to effectively track and optimise supply chain operati
 Additionally, it highlights the most profitable orders and product categories, facilitating better resource allocation and pricing strategies. 
 By analysing sales at the customer level, it pinpoints top revenue-generating customers and identifies late deliveries, ensuring that key insights are clear and actionable without overwhelming the user.
 
+![PowerBI](https://github.com/user-attachments/assets/c5c598af-8731-4062-8fa3-609511c7a3f3)
+
 ### Links
 [View the Power BI Dashboard](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Sales-and-Supply-Chain-Analyis-Report/m-p/4235907#M13265)
 
